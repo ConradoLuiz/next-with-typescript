@@ -1,0 +1,9 @@
+{
+    "presets": [
+      "next/babel"
+    ],
+    "plugins": [
+        "inline-react-svg", // for SVG REACT COMPONENTS
+        "inline-import-data-uri" // for PNG imports 
+    ]
+}
